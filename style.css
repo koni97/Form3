@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 50px;
+    padding: 50px 0px;
+    font-size: 20px;
+   color: aliceblue;
+}
+
+.form-section{
+    width: 50%%;
+    background: url(photo2.jpg) center center no-repeat;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+
+
+
+.name{
+    color: rgb(255, 255, 255);
+
+}
+
+input{
+    background-color: rgba(0, 94, 255, 0.578);
+    color: rgb(255, 255, 255);
+    padding: 8px 0px ;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 47%;
+    margin: 10px 0px;
+    padding: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+   
+
+}
+
+.name input{
+    color: rgb(255, 255, 255);
+    width: 22%;
+    padding: 8px 0px;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-right: -50px;
+    border-radius: 10px;
+}
+
+.f-name{
+    margin-right: 15px ;
+}
+
